@@ -1,6 +1,8 @@
 # VNC_setting
 from windows10 remote to ubuntu 20.04
 
+## 1.Set Vnc server on ubuntu
+
 ### Update package
 * sudo apt update -y
 * sudo apt upgrade -y
@@ -24,6 +26,8 @@ from windows10 remote to ubuntu 20.04
 ### After choosing user, create a vnc password
 *  vncpasswd
 
+### Enable Vnc server
+vncserver -localhost no
 
 
 

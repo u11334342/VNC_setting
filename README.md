@@ -49,4 +49,6 @@ from windows10 remote to ubuntu 20.04
 
 ![image](https://github.com/u11334342/VNC_setting/blob/main/result5.PNG)
 
+### Enter your password and enjoy it!
 
+![image](https://github.com/u11334342/VNC_setting/blob/main/result6.PNG)

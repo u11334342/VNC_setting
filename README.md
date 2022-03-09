@@ -25,7 +25,7 @@ from windows10 remote to ubuntu 20.04
 
 ### After choosing user, create a vnc password
 *  vncpasswd
-![image](https://github.com/u11334342/VNC_setting/result1.PNG)
+![image](https://github.com/u11334342/VNC_setting/blob/main/result1.PNG)
 ### Enable Vnc server
 *  vncserver -localhost no
 

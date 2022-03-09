@@ -33,10 +33,20 @@ from windows10 remote to ubuntu 20.04
 
 ![image](https://github.com/u11334342/VNC_setting/blob/main/result2.PNG)
 
-### If succeed, it will be like below
+### Check Vnc server status
+*  vncserver -list
 
 ![image](https://github.com/u11334342/VNC_setting/blob/main/result3.PNG)
 
+### Shot down server by display id(my id is 2)
+*  vncserver -kill :2
 
+![image](https://github.com/u11334342/VNC_setting/blob/main/result4.PNG)
+
+## Set Vnc viewer on windows10
+
+### Go to file->new connection, enter your ip and port number
+
+![image](https://github.com/u11334342/VNC_setting/blob/main/result5.PNG)
 
 
